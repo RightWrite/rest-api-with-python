@@ -16,3 +16,10 @@ print(b)
 b=17
 print(a)
 print(b)
+
+var1 = "Hello"
+var2 = "Hello"
+num1 = 4
+num2 = 4
+print(num1*num2)
+
